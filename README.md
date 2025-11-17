@@ -54,6 +54,12 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuangMinh1308&repo=Data-Science-Community-Collaboration-Analysis&theme=tokyonight" />
 </a>
 
+<!-- Research Collaboration Prediction -->
+<a href="https://github.com/QuangMinh1308/Research-Collaboration-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuangMinh1308&repo=Research-Collaboration-Prediction&theme=tokyonight" />
+</a>
+
+
 
 
 ---
