@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there, I'm Hoàng Quang Minh</h1>
+<h1 align="center">👋 Hi, I'm Hoàng Quang Minh</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Intern;AI+Engineer+in+Progress;Machine+Learning+Enthusiast;Welcome+to+my+GitHub!&center=true&size=22&color=00FFCC">
