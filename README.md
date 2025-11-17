@@ -59,6 +59,12 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuangMinh1308&repo=Research-Collaboration-Prediction&theme=tokyonight" />
 </a>
 
+<!-- Description Topic Clustering -->
+<a href="https://github.com/QuangMinh1308/Description-Topic-Clustering">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuangMinh1308&repo=Description-Topic-Clustering&theme=tokyonight" />
+</a>
+
+
 
 
 
