@@ -49,10 +49,11 @@
 
 ## 📌 Pinned Projects
 
-<!-- 1. Vietnamese News Cluster -->
+<!-- Data Science Community Collaboration Analysis -->
 <a href="https://github.com/QuangMinh1308/Data-Science-Community-Collaboration-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HoangQuangMinh&repo=Vietnamese-News-Cluster&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuangMinh1308&repo=Data-Science-Community-Collaboration-Analysis&theme=tokyonight" />
 </a>
+
 
 
 ---
