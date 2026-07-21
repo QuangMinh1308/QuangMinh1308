@@ -9,7 +9,7 @@
 - 🎓 Final-year **Data Science** student & **AI Intern at POPTECH**.  
 - 🚀 Interested in **Machine Learning, Deep Learning, NLP, RAG, GenSearch**.  
 - 🧠 Love building real-world AI systems & solving practical problems.  
-- 🏗 Currently developing **Banking AI Chatbot (UOB → MSB → VCB)** and multiple NLP pipelines.  
+- 🏗 Currently developing **Banking AI Chatbot (UOB)** and multiple NLP pipelines.  
 - 🎯 Ambition: Become a full-stack **AI Engineer / ML Researcher**.  
 - 🌱 Learning: vector databases, scalable retrieval pipelines, and model optimization.  
 - 📩 Contact me at: **hoangquangminh13082004@gmail.com**
