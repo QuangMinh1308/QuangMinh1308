@@ -12,7 +12,7 @@
 - 🏗 Currently developing **Banking AI Chatbot (UOB → MSB → VCB)** and multiple NLP pipelines.  
 - 🎯 Ambition: Become a full-stack **AI Engineer / ML Researcher**.  
 - 🌱 Learning: vector databases, scalable retrieval pipelines, and model optimization.  
-- 📩 Contact me at: **hoangquangminh.work@gmail.com**
+- 📩 Contact me at: **hoangquangminh13082004@gmail.com**
 
 ---
 
