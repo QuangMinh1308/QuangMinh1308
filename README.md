@@ -25,7 +25,7 @@
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/quang-minh-32a088397/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40"/>
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" height="40"/>
   </a>
 </p>
 
