@@ -20,7 +20,7 @@
 <p align="left">
   <!-- Facebook -->
   <a href="https://www.facebook.com/quang.minh.301813/" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="35" height="35"/>
   </a>
 
   <!-- LinkedIn -->
