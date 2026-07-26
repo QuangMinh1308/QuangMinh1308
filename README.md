@@ -22,12 +22,12 @@
   <a href="https://www.linkedin.com/in/quang-minh-32a088397/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40" height="40"/>
   </a>
-</p>
 
   <!-- Facebook -->
   <a href="https://www.facebook.com/quang.minh.301813/" target="_blank">
     <img src="https://img.icons8.com/color/48/facebook-new.png" width="40" height="40"/>
   </a>
+</p>
 
 
 ---
